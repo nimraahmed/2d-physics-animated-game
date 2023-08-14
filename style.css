@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Bangers", cursive;
 }
 
 #canvas1 {
@@ -24,6 +25,7 @@
 #bull,
 #egg,
 #toad,
-#larva {
+#larva,
+#toads {
   display: none;
 }
